@@ -3,18 +3,11 @@
 <h1 align="center"> Привет друзья! 
 <img src="https://github.com/Magistr-Almaty/Magistr-Almaty/blob/main/Hi.gif" height="32"/></h1>
 <h2 align="center">Я Серышев Александр Валерьевич</h2>
-<h3 align="center">В настоящее время 🇷🇺</h3>
+
 
 - 🔭 Внастоящее время я работаю: https://luna8.kz
-<!--- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...-->
-- 📫 Как связаться со мной: <br>
-<a href="https://t.me/Magistr_Almaty"><img src="https://github.com/Magistr-Almaty/Magistr-Almaty/blob/main/t_magistr_almaty.png" height="32"/></a>
+- 📫 Как связаться со мной: <a href="https://t.me/Magistr_Almaty"><img src="https://github.com/Magistr-Almaty/Magistr-Almaty/blob/main/t_magistr_almaty.png" height="16"/></a><br>
 <img src="https://github.com/Magistr-Almaty/Magistr-Almaty/blob/main/telegram_qr.png" height="256"/>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!--
 **Magistr-Almaty/Magistr-Almaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
