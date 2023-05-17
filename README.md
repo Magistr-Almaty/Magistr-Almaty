@@ -1,4 +1,4 @@
-### Привет друзья! 👋
+### Привет друзья! <img src="https://github.com/Magistr-Almaty/Magistr-Almaty/blob/main/Hi.gif" height="32"/>
 
 <h1 align="center"> Привет друзья! 
 <img src="https://github.com/Magistr-Almaty/Magistr-Almaty/blob/main/Hi.gif" height="32"/></h1>
